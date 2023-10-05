@@ -1,4 +1,4 @@
 #!/bin/bash
-read text
+read -r text
 
 echo "${text}"

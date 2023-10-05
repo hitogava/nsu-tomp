@@ -1,4 +1,4 @@
 #!/bin/bash
 
-read archiveName
+archiveName=($1)
 tar -xvf $archiveName
